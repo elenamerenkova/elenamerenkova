@@ -1,8 +1,8 @@
 ### Welcome, all! 👋
 
-Recent IT graduate specializing in programming seeking an entry level position in software development area 🤘
+Recent IT graduate specializing in programming seeking an entry level position in software development area 
 
-😁 About me:
+About me:
 
 ✌️ Programming geek and enthusiast. 
 
