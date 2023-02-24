@@ -8,7 +8,7 @@ About me:
 
 🎓 Currently self learning more advanced Java and trying to improve my coding skills.
 
-🪐 The most important thing in life is to never stop learning.
+🪐 I believe we live in a simulation.
 <!--
 **elenamerenkova/elenamerenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
