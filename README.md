@@ -6,7 +6,7 @@ About me:
 
 ✌️ Programming geek and enthusiast. 
 
-🎓 Currently self learning more advanced Java and trying to improve my coding skills.
+🎓 Currently self learning more advanced Java and trying to improve my coding skills. Have experience with Python, C#, HTML, CSS, PHP and JavaScript.
 
 🪐 I believe we live in a simulation.
 <!--
