@@ -4,11 +4,13 @@ Recent IT graduate specializing in programming seeking an entry level position i
 
 About me:
 
-✌️ Programming geek and enthusiast. 
+✌️  Programming geek and enthusiast. 
 
-🎓 Currently self learning more advanced Java and trying to improve my coding skills. Have experience with Python, C#, HTML, CSS, PHP and JavaScript.
+🎓 Java / Spring, Hibernate && Python, C# && HTML, CSS, JavaScript, PHP / Bootstrap
 
 🪐 I believe we live in a simulation.
+
+👤 INTJ if you follow, IQ 125 if that matters
 <!--
 **elenamerenkova/elenamerenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
