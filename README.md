@@ -6,11 +6,9 @@ About me:
 
 ✌️  Programming geek and enthusiast. 
 
-🎓 Java / Spring, Hibernate && Python, C# && HTML, CSS, JavaScript, PHP / Bootstrap
+🎓 Java [Spring, Hibernate], JavaScript, PHP, Python, C#. // HTML, CSS, JavaScript, React, Bootstrap.
 
-🪐 I believe we live in a simulation.
-
-👤 INTJ if you follow, IQ 125 if that matters
+👤 INTJ 
 <!--
 **elenamerenkova/elenamerenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
