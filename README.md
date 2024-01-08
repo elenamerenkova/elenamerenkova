@@ -1,13 +1,3 @@
-### Welcome, all! 👋
-
-Recent IT graduate specializing in programming seeking an entry level position in software development area 
-
-About me:
-
-✌️  Programming geek and enthusiast. 
-
-🎓 Java [Spring, Hibernate], JavaScript, PHP, Python, C#. // HTML, CSS, JavaScript, React, Bootstrap.
-
 👤 INTJ 
 <!--
 **elenamerenkova/elenamerenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
